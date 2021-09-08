@@ -3,7 +3,7 @@
 ![https://komarev.com/ghpvc/?username=congchu](https://komarev.com/ghpvc/?username=congchu)
 
 
-## 👋 &nbsp;풀스택 개발자 정쿠입니다. ☺️
+## 👋 &nbsp;주니어 개발자 김진우입니다. ☺️
 
 ✔️ &nbsp;스타트업 환경에 맞는 빠른 주기 개발, 특히 애자일 환경에 익숙합니다.\
 ✔️ &nbsp;이슈 트래킹, 배포 히스토리 등의 기술 문서 작성을 중요하게 생각합니다.\
