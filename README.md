@@ -29,4 +29,4 @@
 ### 🤝🏻 &nbsp;Contact
 <a href="mailto:119kju@gmail.com"><img src="https://img.shields.io/badge/-119kju@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/jeongkooo"><img src="https://img.shields.io/badge/-@jeongkooo__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/kzkju"><img src="https://img.shields.io/badge/-@minjung.koo2-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.facebook.com/kzkju"><img src="https://img.shields.io/badge/-@kzkju-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
