@@ -29,4 +29,4 @@
 ### 🤝🏻 &nbsp;Contact
 <a href="mailto:119kju@gmail.com"><img src="https://img.shields.io/badge/-119kju@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.facebook.com/kzkju"><img src="https://img.shields.io/badge/-@kzkju-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="https://commitjinu.tistory.com/"><img src="https://img.shields.io/badge/-@kzkju-1877F2?style=flat&logo=tistory&logoColor=white"/></a>
+<a href="https://commitjinu.tistory.com/"><img src="https://img.shields.io/badge/-tistory-1877F2?style=flat&logo=tistory&logoColor=red"/></a>
