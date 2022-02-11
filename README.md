@@ -22,10 +22,9 @@
 
 ### 💻 &nbsp;GitHub Analytics
 
-![Jinu's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinu12&show_icons=true&theme=radical&hide=contribs&title_color=blue)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinu12&layout=compact&theme=algolia&langs_count=7&hide=html,css))](https://github.com/jinu12/github-readme-stats)
 
+![Jinu's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinu12&show_icons=true&theme=radical&hide=contribs&title_color=blue)
 
 ### 🤝🏻 &nbsp;Contact
 <a href="mailto:119kju@gmail.com"><img src="https://img.shields.io/badge/-119kju@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
