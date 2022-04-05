@@ -1,6 +1,6 @@
 
 
-<h1 align="center">👋 &nbsp;주니어 개발자 김진우입니다. </h1>
+<h1 align="center">👋 &nbsp;주니어 개발자 김진우입니다. 👋 </h1>
   
 
   <h3 align="center">✔️ &nbsp;스타트업 환경에 맞는 빠른 주기 개발, 특히 애자일 환경에 익숙합니다.<br></h3>
