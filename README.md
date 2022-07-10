@@ -30,6 +30,7 @@
 <p align="center">
 <a href="mailto:119kju@gmail.com"><img src="https://img.shields.io/badge/-119kju@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.facebook.com/kzkju"><img src="https://img.shields.io/badge/-@kzkju-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-<!-- <a href="https://kprogrammer.pythonanywhere.com/"><img src="https://img.shields.io/badge/-photoPolio-CC0000?style=flat&logo=Django&logoColor=white"/></a> -->
+ <!-- <a href="https://kprogrammer.pythonanywhere.com/"><img src="https://img.shields.io/badge/-photoPolio-CC0000?style=flat&logo=Django&logoColor=white"/></a> -->
 <a href="https://github.com/jinu12"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseondal&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a>
-<a href="https://legendary-open-e74.notion.site/888517a7ba3f4c2e9c356f407e01ee4c"><img src="https://img.shields.io/badge/-Portfolio-fff5ee?style=flat&logo=Notion&logoColor=black"/></a>
+# notion  수정중
+<!--<a href="https://legendary-open-e74.notion.site/888517a7ba3f4c2e9c356f407e01ee4c"><img src="https://img.shields.io/badge/-Portfolio-fff5ee?style=flat&logo=Notion&logoColor=black"/></a>
