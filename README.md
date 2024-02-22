@@ -1,11 +1,12 @@
 
 
-<h1 align="center">👋 &nbsp;주니어 개발자 김진우입니다. 👋 </h1>
+<h1 align="center">👋 &nbsp;동료와의 협업과 지식 공유에 중점을 둔 프로그램 개발자입니다 👋 </h1>
   
 
   <h3 align="center">✔️ &nbsp;스타트업 환경에 맞는 빠른 주기 개발, 특히 애자일 환경에 익숙합니다.<br></h3>
   <h3 align="center">✔️ &nbsp;이슈 트래킹, 배포 히스토리 등의 기술 문서 작성을 중요하게 생각합니다.<br></h3>
   <h3 align="center">✔️ &nbsp;개발자의 편한 개발보다 사용자의 편의를 더 중요하게 생각합니다.</h3>
+  
 <!-- ✔️ &nbsp;저에 대해 궁금하시다면, <a href="https://www.notion.so/cucus/FullStack-Programmer-12a087212d21471abfce21cb3c347298">제 포트폴리오</a>를 방문해주세요. -->
 
 <h1 align="center"><b>📚 Tech Stack 📚</b></h3>
